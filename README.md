@@ -1,5 +1,8 @@
 ![repo-header](https://github.com/ThompsonBethany01/Acea-Smart-Water-Analytics/blob/main/images/Repo%20Headers.gif?raw=true)
 # About the Project
+
+**Currently Working On** Auser Aquifer Analysis [Here](https://github.com/ThompsonBethany01/Acea-Smart-Water-Analytics/blob/main/Waterbodies/Aquifer/Auser/Wrangle_Auser.ipynb)
+
 ## Goals
 Predict the water level in a waterbody to handle daily consumption and therefor improve water preservation. While the data consists of nine seperate waterbodies with different features, it is still important to understand the water levels as a whole in order to preserve water for the entire country of Italy. To be concise, the goal is to build a story to predict the amount of water in each unique waterbody, ensuring water availability for each time interval of the year.
 
